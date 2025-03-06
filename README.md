@@ -15,7 +15,7 @@ This project is a **Streamlit-based Decision Tree Classifier** that allows users
 ## 🛠 Installation & Setup
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/decision-tree-classifier.git
+git clone https://github.com/raj-prateek-gupta/Decision-Tree-Classifier
 cd decision-tree-classifier
 ```
 ### 2️⃣ Install required dependencies:
@@ -26,6 +26,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+✅ If streamlit is not recognized:
+```bash
+python -m streamlit run app.py
+```
+
 
 # Introduction to Decision Tree Classifier
 
@@ -54,11 +59,9 @@ A **Decision Tree Classifier** is a **supervised machine learning algorithm** us
 ✖ Prone to overfitting
 ✖ Can create biased trees if dataset is imbalanced
 
-## 🌍 Real-World Applications
-- **Medical Diagnosis** (e.g., predicting diseases based on symptoms)
-- **Customer Segmentation** (e.g., classifying customers for marketing)
-- **Fraud Detection** (e.g., identifying fraudulent transactions)
-- **Credit Risk Assessment** (e.g., determining loan approvals)
+
+
+
 
 
 
