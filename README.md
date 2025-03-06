@@ -7,10 +7,10 @@ This project is a **Streamlit-based Decision Tree Classifier** that allows users
 - Display the model’s accuracy score
 
 ## 🚀 Features
-✔ **Hyperparameter Tuning** - Adjust decision tree parameters dynamically
-✔ **Decision Tree Visualization** - Graph representation of the trained tree
-✔ **Accuracy Score Display** - Evaluate model performance
-✔ **Decision Boundary Visualization** - See how the model classifies data
+- ✔ **Hyperparameter Tuning** - Adjust decision tree parameters dynamically
+- ✔ **Decision Tree Visualization** - Graph representation of the trained tree
+- ✔ **Accuracy Score Display** - Evaluate model performance
+- ✔ **Decision Boundary Visualization** - See how the model classifies data
 
 ## 🛠 Installation & Setup
 ### 1️⃣ Clone the repository:
@@ -51,13 +51,13 @@ A **Decision Tree Classifier** is a **supervised machine learning algorithm** us
 - **`min_samples_leaf`**: The minimum number of samples at a leaf node
 
 ## ✅ Advantages
-✔ Easy to understand and interpret
-✔ Handles both numerical and categorical data
-✔ Requires little data preprocessing
+- ✔ Easy to understand and interpret
+- ✔ Handles both numerical and categorical data
+- ✔ Requires little data preprocessing
 
 ## ❌ Disadvantages
-✖ Prone to overfitting
-✖ Can create biased trees if dataset is imbalanced
+- ✖ Prone to overfitting
+- ✖ Can create biased trees if dataset is imbalanced
 
 
 
